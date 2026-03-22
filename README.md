@@ -6,7 +6,7 @@ A relational database project created using SQL as part of coursework.
 This project was developed as part of my database course to practice designing and implementing a relational database using SQL.
 
 ## Features
-- Creation of multiple related tables (Movie, Director, Crew, etc.)
+- Designed and created multiple related tables (Movie, Director, Crew, etc.)
 - Use of primary keys and foreign key relationships
 - Implementation of constraints (CHECK, UNIQUE, DEFAULT)
 - Insert, update, and delete operations
